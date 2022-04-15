@@ -20,9 +20,9 @@ export default function Home({ allPostData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I am this guy something something yes!</p>
+        <p>I am an angular developer trying to learn react!</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (This is a sample website!{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
       </section>
